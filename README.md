@@ -140,8 +140,8 @@ the commands appropriate for your environment.
 Clone the repository:
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd bifrost-benchmark-platform
+git clone https://github.com/DhanushM-00/Benchmarking-for-AI-agents
+cd Benchmarking-for-AI-agents
 ```
 
 Alternatively, download the repository as a ZIP file and extract it.
